@@ -1,0 +1,5 @@
+{
+  "name": "Clash Royale Deck Builder AI",
+  "description": "An interactive web application to explore Clash Royale characters, build decks, and get strategic advice from AI. Browse all cards, filter by rarity and type, and view detailed stats. Create your ultimate deck and receive AI-powered analysis to improve your gameplay.",
+  "requestFramePermissions": []
+}
